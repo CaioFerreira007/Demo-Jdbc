@@ -11,7 +11,7 @@ import db.DbException;
 public class Program {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		Connection conn = null;
 		Statement st = null;
 		ResultSet rs = null;
